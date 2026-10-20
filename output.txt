@@ -1,0 +1,19 @@
+13
+-----
+16
+-----
+-10
+-----
+8
+-----
+46
+-----
+Error: Division by zero
+-----
+Error: Unmatched (
+-----
+2.5
+-----
+Error: Unmatched )
+-----
+Error: Missing operand
